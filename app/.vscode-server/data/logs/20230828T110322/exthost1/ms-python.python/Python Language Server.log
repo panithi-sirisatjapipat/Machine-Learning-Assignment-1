@@ -1,0 +1,28 @@
+2023-08-28 11:03:36.905 [info] [Info  - 11:03:36 AM] (411) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-28 11:03:36.917 [info] [Info  - 11:03:36 AM] (411) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-28 11:03:36.918 [info] [Info  - 11:03:36 AM] (411) Starting service instance "code"
+2023-08-28 11:03:37.191 [info] [Info  - 11:03:37 AM] (411) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-08-28 11:03:37.222 [info] [Warn  - 11:03:37 AM] (411) stubPath /root/code/typings is not a valid directory.
+2023-08-28 11:03:37.430 [info] [Info  - 11:03:37 AM] (411) Assuming Python version 3.11
+2023-08-28 11:03:38.497 [info] [Info  - 11:03:38 AM] (411) Found 1 source file
+2023-08-28 11:03:49.198 [info] [Info  - 11:03:49 AM] (411) [IDX(2)] Long operation: scan packages /root/code (9041ms)
+2023-08-28 11:05:01.004 [info] [Info  - 11:05:01 AM] (411) [BG(1)] Long operation: checking: /root/code/app.py (4407ms)
+2023-08-28 11:05:01.005 [info] [Info  - 11:05:01 AM] (411) [BG(1)] Long operation: analyzing: /root/code/app.py (5827ms)
+2023-08-28 11:05:08.210 [info] [Info  - 11:05:08 AM] (411) [IDX(3)] Long operation: scan packages /root/code (12213ms)
+2023-08-28 11:05:10.719 [info] [Info  - 11:05:10 AM] (411) [IDX(3)] Long operation: index execution environment /root/code (2416ms)
+2023-08-28 11:05:10.720 [info] [Info  - 11:05:10 AM] (411) [IDX(3)] Long operation: index packages /root/code (2441ms)
+2023-08-28 11:05:30.970 [info] [Info  - 11:05:30 AM] (411) [BG(1)] Long operation: checking: /root/code/app.py (3464ms)
+2023-08-28 11:05:30.970 [info] [Info  - 11:05:30 AM] (411) [BG(1)] Long operation: analyzing: /root/code/app.py (4677ms)
+2023-08-28 11:05:38.538 [info] [Info  - 11:05:38 AM] (411) [IDX(4)] Long operation: scan packages /root/code (11608ms)
+2023-08-28 11:05:41.167 [info] [Info  - 11:05:41 AM] (411) [IDX(4)] Long operation: index execution environment /root/code (2515ms)
+2023-08-28 11:05:41.167 [info] [Info  - 11:05:41 AM] (411) [IDX(4)] Long operation: index packages /root/code (2544ms)
+2023-08-28 11:13:05.119 [info] [Info  - 11:13:05 AM] (411) [BG(1)] Long operation: checking: /root/code/app.py (3709ms)
+2023-08-28 11:13:05.120 [info] [Info  - 11:13:05 AM] (411) [BG(1)] Long operation: analyzing: /root/code/app.py (5228ms)
+2023-08-28 11:13:11.899 [info] [Info  - 11:13:11 AM] (411) [IDX(5)] Long operation: scan packages /root/code (11035ms)
+2023-08-28 11:13:14.375 [info] [Info  - 11:13:14 AM] (411) [IDX(5)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/__init__.pyi (2126ms)
+2023-08-28 11:13:18.268 [info] [Info  - 11:13:18 AM] (411) [IDX(5)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/calibration.pyi (2036ms)
+2023-08-28 11:13:21.519 [info] [Info  - 11:13:21 AM] (411) [IDX(5)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/conftest.pyi (2573ms)
+2023-08-28 11:13:24.737 [info] [Info  - 11:13:24 AM] (411) [IDX(5)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/covariance/_empirical_covariance.pyi (2788ms)
+2023-08-28 11:13:24.779 [info] [Info  - 11:13:24 AM] (411) [IDX(5)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/bundled/stubs/sklearn/covariance/__init__.pyi (3258ms)
+2023-08-28 11:13:34.222 [info] [Info  - 11:13:34 AM] (411) [IDX(5)] Long operation: index execution environment /root/code (21985ms)
+2023-08-28 11:13:34.244 [info] [Info  - 11:13:34 AM] (411) [IDX(5)] Long operation: index packages /root/code (22029ms)

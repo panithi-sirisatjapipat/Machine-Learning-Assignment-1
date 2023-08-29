@@ -1,0 +1,21 @@
+2023-08-26 11:31:45.589 [info] [Info  - 11:31:45 AM] (6062) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-26 11:31:45.590 [info] [Info  - 11:31:45 AM] (6062) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-26 11:31:45.590 [info] [Info  - 11:31:45 AM] (6062) Starting service instance "code"
+2023-08-26 11:31:45.696 [info] [Info  - 11:31:45 AM] (6062) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-08-26 11:31:45.702 [info] [Warn  - 11:31:45 AM] (6062) stubPath /root/code/typings is not a valid directory.
+2023-08-26 11:31:45.751 [info] [Info  - 11:31:45 AM] (6062) Assuming Python version 3.11
+2023-08-26 11:31:46.745 [info] [Info  - 11:31:46 AM] (6062) Found 1 source file
+2023-08-26 11:31:49.521 [info] [Info  - 11:31:49 AM] (6062) [BG(1)] Long operation: analyzing: /root/code/app.py (2016ms)
+2023-08-26 11:31:57.843 [info] [Info  - 11:31:57 AM] (6062) [IDX(2)] Long operation: scan packages /root/code (9525ms)
+2023-08-26 11:36:30.010 [info] [Info  - 11:36:30 AM] (6062) [BG(1)] Long operation: checking: /root/code/app.py (3184ms)
+2023-08-26 11:36:30.010 [info] [Info  - 11:36:30 AM] (6062) [BG(1)] Long operation: analyzing: /root/code/app.py (4586ms)
+2023-08-26 11:36:35.539 [info] [Info  - 11:36:35 AM] (6062) [IDX(3)] Long operation: scan packages /root/code (9352ms)
+2023-08-26 11:36:39.411 [info] [Info  - 11:36:39 AM] (6062) [IDX(3)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/typeshed-fallback/stubs/requests/requests/__init__.pyi (3642ms)
+2023-08-26 11:36:40.024 [info] [Info  - 11:36:40 AM] (6062) [IDX(3)] Long operation: indexing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/typeshed-fallback/stubs/requests/requests/__init__.pyi (4302ms)
+2023-08-26 11:36:41.151 [info] [Info  - 11:36:41 AM] (6062) [IDX(3)] Long operation: index execution environment /root/code (5443ms)
+2023-08-26 11:36:41.166 [info] [Info  - 11:36:41 AM] (6062) [IDX(3)] Long operation: index packages /root/code (5506ms)
+2023-08-26 12:05:24.530 [info] [Info  - 12:05:24 PM] (6062) No source files found.
+2023-08-26 12:05:34.202 [info] [Info  - 12:05:34 PM] (6062) Found 1 source file
+2023-08-26 12:05:34.203 [info] [Info  - 12:05:34 PM] (6062) [BG(1)] Long operation: parsing: /root/code/app.py (2666ms)
+2023-08-26 12:05:34.204 [info] [Info  - 12:05:34 PM] (6062) [BG(1)] Long operation: analyzing: /root/code/app.py (3171ms)
+2023-08-26 12:05:36.458 [info] [Info  - 12:05:36 PM] (6062) [BG(1)] Long operation: analyzing: /root/code/app.py (2255ms)

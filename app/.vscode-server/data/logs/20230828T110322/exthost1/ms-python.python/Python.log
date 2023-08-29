@@ -1,0 +1,8 @@
+2023-08-28 11:03:33.738 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-28 11:03:33.739 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-28 11:03:33.739 [info] Test server listening.
+2023-08-28 11:03:33.740 [info] Python interpreter path: /usr/local/bin/python
+2023-08-28 11:03:36.994 [info] Starting Pylance language server.
+2023-08-28 11:03:56.811 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 11:05:35.243 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 11:11:36.306 [info] Discover tests for workspace name: code - uri: /root/code/app.py

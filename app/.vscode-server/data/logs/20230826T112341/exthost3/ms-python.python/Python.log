@@ -1,0 +1,31 @@
+2023-08-26 11:31:42.852 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-26 11:31:42.852 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-26 11:31:42.853 [info] Test server listening.
+2023-08-26 11:31:42.921 [info] > python -c "import sys;print(sys.executable)"
+2023-08-26 11:31:42.971 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-26 11:31:42.972 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-26 11:31:42.973 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-26 11:31:42.973 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-26 11:31:42.973 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-26 11:31:43.005 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-26 11:31:43.188 [info] Python interpreter path: /usr/local/bin/python
+2023-08-26 11:31:45.628 [info] Starting Pylance language server.
+2023-08-26 11:32:43.996 [info] > /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-26 11:32:44.266 [info] Send text to terminal: /usr/local/bin/python
+2023-08-26 11:32:45.113 [info] Send text to terminal: app.run(debug=True)
+
+2023-08-26 11:32:51.164 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 11:32:55.737 [info] > /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-26 11:32:55.830 [info] Send text to terminal: app.run(debug=True)
+
+2023-08-26 11:38:38.823 [info] > /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-26 11:38:38.890 [info] Send text to terminal: app.run(debug=True)
+
+2023-08-26 12:03:25.823 [info] > /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-26 12:03:25.934 [info] Send text to terminal: loaded_model = pickle.load(open(filename, 'rb'))
+
+2023-08-26 12:05:24.429 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 12:05:30.766 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-26 12:05:45.797 [info] > /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/normalizeSelection.py
+2023-08-26 12:05:45.877 [info] Send text to terminal: from dash import Dash, html
+

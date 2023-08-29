@@ -1,0 +1,18 @@
+2023-08-28 10:45:30.176 [info] [Info  - 10:45:29 AM] (410) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-28 10:45:30.180 [info] [Info  - 10:45:30 AM] (410) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-28 10:45:30.181 [info] [Info  - 10:45:30 AM] (410) Starting service instance "code"
+2023-08-28 10:45:30.293 [info] [Info  - 10:45:30 AM] (410) Setting pythonPath for service "code": "/usr/local/bin/python"
+2023-08-28 10:45:30.307 [info] [Warn  - 10:45:30 AM] (410) stubPath /root/code/typings is not a valid directory.
+2023-08-28 10:45:30.318 [info] [Info  - 10:45:30 AM] (410) Assuming Python version 3.11
+2023-08-28 10:45:31.375 [info] [Info  - 10:45:31 AM] (410) Found 1 source file
+2023-08-28 10:45:43.058 [info] [Info  - 10:45:43 AM] (410) [IDX(2)] Long operation: scan packages /root/code (9963ms)
+2023-08-28 10:49:00.231 [info] [Info  - 10:49:00 AM] (410) [BG(1)] Long operation: checking: /root/code/app.py (3693ms)
+2023-08-28 10:49:00.231 [info] [Info  - 10:49:00 AM] (410) [BG(1)] Long operation: analyzing: /root/code/app.py (5012ms)
+2023-08-28 10:49:06.188 [info] [Info  - 10:49:06 AM] (410) [IDX(3)] Long operation: scan packages /root/code (10199ms)
+2023-08-28 10:49:08.611 [info] [Info  - 10:49:08 AM] (410) [IDX(3)] Long operation: index execution environment /root/code (2298ms)
+2023-08-28 10:49:08.612 [info] [Info  - 10:49:08 AM] (410) [IDX(3)] Long operation: index packages /root/code (2353ms)
+2023-08-28 10:50:23.390 [info] [Info  - 10:50:23 AM] (410) [BG(1)] Long operation: checking: /root/code/app.py (4737ms)
+2023-08-28 10:50:23.392 [info] [Info  - 10:50:23 AM] (410) [BG(1)] Long operation: analyzing: /root/code/app.py (6177ms)
+2023-08-28 10:50:29.773 [info] [Info  - 10:50:29 AM] (410) [IDX(4)] Long operation: scan packages /root/code (11715ms)
+2023-08-28 10:50:32.370 [info] [Info  - 10:50:32 AM] (410) [IDX(4)] Long operation: index execution environment /root/code (2478ms)
+2023-08-28 10:50:32.371 [info] [Info  - 10:50:32 AM] (410) [IDX(4)] Long operation: index packages /root/code (2515ms)

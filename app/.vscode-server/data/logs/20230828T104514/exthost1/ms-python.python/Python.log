@@ -1,0 +1,21 @@
+2023-08-28 10:45:26.998 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-28 10:45:26.999 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-28 10:45:26.999 [info] Test server listening.
+2023-08-28 10:45:26.999 [info] > conda info --json
+2023-08-28 10:45:27.033 [info] Found: /bin/python3 --> /bin/python3.11
+2023-08-28 10:45:27.048 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-08-28 10:45:27.139 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-08-28 10:45:27.143 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-08-28 10:45:27.165 [info] > /usr/local/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 10:45:27.176 [info] Found: /usr/local/bin/python --> /usr/local/bin/python3.11
+2023-08-28 10:45:27.178 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.11
+2023-08-28 10:45:27.181 [info] Found: /usr/local/bin/python3.11 --> /usr/local/bin/python3.11
+2023-08-28 10:45:27.211 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 10:45:27.395 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-28 10:45:27.499 [info] Python interpreter path: /usr/local/bin/python
+2023-08-28 10:45:28.276 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2023-08-28 10:45:30.211 [info] Starting Pylance language server.
+2023-08-28 10:47:46.160 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 10:52:27.630 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 10:52:45.637 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-28 10:54:27.883 [info] Discover tests for workspace name: code - uri: /root/code/app.py

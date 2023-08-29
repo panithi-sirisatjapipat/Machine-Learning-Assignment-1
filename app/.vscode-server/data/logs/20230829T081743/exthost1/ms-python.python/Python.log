@@ -1,0 +1,15 @@
+2023-08-29 08:17:55.086 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-29 08:17:55.087 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-29 08:17:55.087 [info] Test server listening.
+2023-08-29 08:17:55.087 [info] Python interpreter path: /usr/local/bin/python
+2023-08-29 08:17:59.209 [info] Starting Pylance language server.
+2023-08-29 08:21:59.182 [info] Running installed packages checker:  python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/installed_check.py /root/code/requirements.txt
+2023-08-29 08:26:19.271 [info] Running installed packages checker:  python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/installed_check.py /root/code/requirements.txt
+2023-08-29 08:26:39.254 [info] Running installed packages checker:  python /root/.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/installed_check.py /root/code/requirements.txt
+2023-08-29 08:28:35.471 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:30:15.896 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:39:24.015 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:39:40.511 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:40:44.334 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:40:57.044 [info] Discover tests for workspace name: code - uri: /root/code/app.py
+2023-08-29 08:41:29.537 [info] Discover tests for workspace name: code - uri: /root/code/app.py
